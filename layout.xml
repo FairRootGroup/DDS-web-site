@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE layout PUBLIC "-//Norman Walsh//DTD Website Layout V2.6.0//EN"
+"http://docbook.sourceforge.net/release/website/2.6.0/schema/dtd/layout.dtd">
+<layout>
+    
+    <config param="title" value="DDS" />
+    <config param="text-prefix" value="n-"/>
+    
+    <config param="homebanner-tabular" value="graphics/DDS_logo.png"
+    altval="Home Banner"/>
+    <config param="banner-tabular"     value="graphics/DDS_logo.png"
+    altval="Banner"/>    
+    
+    <config param="navbgcolor" value="#FFFFFF" />
+    
+    <!--config
+     param="headlink"
+     altval="SVN Browse"
+     value="http://code.google.com/p/salesmen/source/browse/"/-->
+    
+    <copyright>
+        <year>2014</year>
+        <holder role="http://www.gsi.de">GSI Helmholtzzentrum für Schwerionenforschung GmbH</holder>
+    </copyright>
+    
+    <!--headlink rel="icon"
+     href="/images/wilber-icon.png"
+     type="image/png" />
+     <headlink rel="bookmark"
+     href="http://developer.gimp.org/"
+     title="GIMP Developer Resources"
+     type="text/html" />
+     <headlink rel="bookmark"
+     href="http://www.gimp.org/"
+     title="GIMP Website"
+     type="text/html" />
+     <headlink rel="bookmark"
+     href="http://www.gegl.org/"
+     title="GEGL Website"
+     type="text/html" />
+     <headlink rel="author"
+     href="mailto:webmaster@gimp.org"
+     title="webmaster@gimp.org" /-->
+    
+    <!-- TODO: add icon here, defined with URL... -->
+     <!--headlink rel="icon" href="" type="image/png"/-->
+    
+    <style src="docbook-website.css" type="text/css"/>
+    
+    <toc page="website.xml" filename="index.html">
+        <tocentry page="download.xml" filename="download.html"/>
+        <tocentry id="tocentry-quick-start"
+            href="http://dds.gsi.de/doc/pro/QuickStart.html">
+            <title>Quick Start</title></tocentry>
+        <tocentry page="documentation.xml" filename="documentation.html"/>
+        <tocentry page="support.xml" filename="support.html"/>
+        <tocentry page="development.xml" filename="development.html"/>
+    </toc>
+</layout>
+

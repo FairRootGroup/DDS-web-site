@@ -1,0 +1,42 @@
+<!DOCTYPE webpage
+  PUBLIC "-//Norman Walsh//DTD Website V2.6.0//EN"
+  "http://docbook.sourceforge.net/release/website/2.6.0/schema/dtd/website.dtd">
+
+<webpage id="Development">
+<config param="desc" value="Development"/>
+
+
+<head>
+<title>Development</title>
+<summary>Development</summary>
+<keywords>DDS, Anar Manafov, Andrey Lebedev, Dynamic Deployment System</keywords>
+</head>
+
+<webtoc/>
+
+<section><title>Source code</title>
+<para>
+ <ulink url="https://github.com/FairRootGroup/DDS">Browse and Download source code</ulink> 
+</para>
+</section>
+
+<section><title>Continuous integration</title>
+<itemizedlist>
+<listitem><para><ulink url="http://demac012.gsi.de:22001/">DDS's Buildbot</ulink></para></listitem>
+<listitem><para><ulink url="http://demac012.gsi.de:22001/waterfall">Builds history</ulink></para></listitem>
+</itemizedlist>
+</section>
+
+<section><title>Code Metrics</title>
+<para>
+<ulink url="https://www.openhub.net/p/gsi-DDS">DDS stats made by Open HUB</ulink> 
+</para>
+</section>
+
+</webpage>
+
+<!--
+Local variables:
+mode: docbook
+End:
+-->

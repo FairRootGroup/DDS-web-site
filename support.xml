@@ -1,0 +1,25 @@
+<!DOCTYPE webpage
+PUBLIC "-//Norman Walsh//DTD Website V2.6.0//EN"
+"http://docbook.sourceforge.net/release/website/2.6.0/schema/dtd/website.dtd">
+
+<webpage id="Support">
+    <config param="desc" value="Navigation Layout"/>
+    
+    <head>
+        <title>Support</title>
+        <summary>Support</summary>
+    </head>
+    
+    <itemizedlist>
+        <listitem><para><ulink url="http://dds.gsi.de/doc/pro/Known_Issues.html">Known issues.</ulink>
+        </para>
+        </listitem>
+        <listitem><para><ulink url="https://github.com/FairRootGroup/DDS/issues">Bug Reports and Feature Requests.</ulink>
+        </para>
+        </listitem>
+        <listitem><para><ulink url="mailto:anar.manafov@gmail.com?subject=DDS%20support">Give us Feedback.</ulink>
+        </para>
+        </listitem>
+    </itemizedlist>
+    
+</webpage>

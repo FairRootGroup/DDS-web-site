@@ -1,0 +1,92 @@
+<!DOCTYPE webpage
+PUBLIC "-//Norman Walsh//DTD Website Full V2.6.0//EN"
+"http://docbook.sourceforge.net/release/website/2.6.0/schema/dtd/website-full.dtd"[
+<!ENTITY download_stat.xml SYSTEM "download_stat.xml" NDATA XML>
+]>
+
+<webpage id="Download">
+    <config param="desc" value="Navigation Layout"/>
+    
+    <head>
+        <title>Download</title>
+        <summary>Download</summary>
+    </head>
+    
+    <section><title>Stable</title>
+        <table>
+            <title>Available versions to download</title>
+            <tgroup cols="6">
+                <thead>
+                    <row>
+                        <entry>Release</entry>
+                        <entry>Version</entry>
+                        <entry>Date</entry>
+                        <entry>Requirements</entry>  
+                        <entry>Changes</entry>
+                        <entry>License</entry>  
+                    </row>
+                </thead>
+                <tbody>
+
+		    <row>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>        
+                    </row>
+                                        
+                </tbody>
+            </tgroup>
+        </table>
+    </section>
+    
+    <section><title>Cutting Edge (or Beta)</title>
+        <table>
+            <title>Available versions to download</title>
+            <tgroup cols="6">
+                <thead>
+                    <row>
+                        <entry>Release</entry>
+                        <entry>Version</entry>
+                        <entry>Date</entry>
+                        <entry>Requirements</entry>  
+                        <entry>Changes</entry>
+                        <entry>License</entry>  
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>
+                        <entry></entry>        
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </section>
+    
+    
+    <section><title>Older Versions</title>
+        <para>
+            <ulink url="http://dds.gsi.de/releases/pod/">Browse older DDS versions</ulink> 
+        </para>
+    </section>
+    
+    <section><title>Nightly Builds</title>
+        <para>
+            <ulink url="http://dds.gsi.de/releases/pod/nightly/">Browse and Download nightly builds</ulink> 
+        </para>
+    </section>
+    
+    <section><title>Download statistics</title>
+        <para>
+            <olink targetdocent="download_stat.xml">Download Statistics</olink>
+        </para>
+    </section>
+    
+</webpage>

@@ -1,0 +1,38 @@
+<!DOCTYPE webpage
+PUBLIC "-//Norman Walsh//DTD Website Full V2.6.0//EN"
+"http://docbook.sourceforge.net/release/website/2.6.0/schema/dtd/website-full.dtd"[
+<!ENTITY download.xml SYSTEM "download.xml" NDATA XML>
+]>
+
+<webpage id="Documentation">
+    <config param="desc" value="Navigation Layout"/>
+
+    <head>
+        <title>Documentation</title>
+        <summary>Documentation</summary>
+    </head>
+
+    <table>
+		<title></title>
+  		<tgroup cols="3">
+    		<thead>
+                <row>
+                    <entry>Name</entry>
+                    <entry>Link</entry>
+                    <entry>Description</entry>
+                </row>
+    		</thead>
+    		<tbody>
+      	        <row>
+                    <entry>User's Manual (Nightly build)</entry>
+                    <entry><ulink url="http://dds.gsi.de/doc/nightly/index.html">HTML</ulink>,
+                           <ulink url="http://dds.gsi.de/doc/nightly/DDS.pdf">PDF</ulink>,
+                           <ulink url="http://dds.gsi.de/doc/nightly/DDS.ps">PS</ulink> </entry>
+                    <entry>User's manual of the latest development DDS version, which is build nightly.</entry>
+                </row>
+
+               </tbody>
+        </tgroup>
+    </table>    
+    
+</webpage>
