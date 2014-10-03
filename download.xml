@@ -73,13 +73,13 @@ PUBLIC "-//Norman Walsh//DTD Website Full V2.6.0//EN"
     
     <section><title>Older Versions</title>
         <para>
-            <ulink url="http://dds.gsi.de/releases/pod/">Browse older DDS versions</ulink> 
+            <ulink url="http://dds.gsi.de/releases/dds/">Browse older DDS versions</ulink> 
         </para>
     </section>
     
     <section><title>Nightly Builds</title>
         <para>
-            <ulink url="http://dds.gsi.de/releases/pod/nightly/">Browse and Download nightly builds</ulink> 
+            <ulink url="http://dds.gsi.de/releases/dds/nightly/">Browse and Download nightly builds</ulink> 
         </para>
     </section>
     
