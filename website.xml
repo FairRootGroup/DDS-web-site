@@ -2,7 +2,6 @@
 PUBLIC "-//Norman Walsh//DTD Website V2.6.0//EN"
 "http://docbook.sourceforge.net/release/website/2.6.0/schema/dtd/website.dtd"[
 <!ENTITY download.xml SYSTEM "download.xml" NDATA XML>
-<!ENTITY download_stat.xml SYSTEM "download_stat.xml" NDATA XML>
 ]>
 
 
