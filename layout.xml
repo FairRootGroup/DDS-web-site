@@ -49,9 +49,6 @@
     
     <toc page="website.xml" filename="index.html">
         <tocentry page="download.xml" filename="download.html"/>
-        <tocentry id="tocentry-quick-start"
-            href="http://dds.gsi.de/doc/pro/QuickStart.html">
-            <title>Quick Start</title></tocentry>
         <tocentry page="documentation.xml" filename="documentation.html"/>
         <tocentry page="support.xml" filename="support.html"/>
         <tocentry page="development.xml" filename="development.html"/>
