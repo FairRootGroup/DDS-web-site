@@ -26,8 +26,8 @@ PUBLIC "-//Norman Walsh//DTD Website Full V2.6.0//EN"
       	        <row>
                     <entry>User's Manual (Nightly build)</entry>
                     <entry><ulink url="http://dds.gsi.de/doc/nightly/index.html">HTML</ulink>,
-                           <ulink url="http://dds.gsi.de/doc/nightly/DDS.pdf">PDF</ulink>,
-                           <ulink url="http://dds.gsi.de/doc/nightly/DDS.ps">PS</ulink> </entry>
+                           <ulink url="http://dds.gsi.de/doc/nightly/dds.pdf">PDF</ulink>,
+                           <!--ulink url="http://dds.gsi.de/doc/nightly/DDS.ps">PS</ulink--> </entry>
                     <entry>User's manual of the latest development DDS version, which is build nightly.</entry>
                 </row>
 
