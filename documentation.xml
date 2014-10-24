@@ -30,6 +30,13 @@ PUBLIC "-//Norman Walsh//DTD Website Full V2.6.0//EN"
 					</entry>
                     <entry>User's manual of the latest development DDS version, which is build nightly.</entry>
                 </row>
+      	        <row>
+                    <entry>User's Manual (v0.4)</entry>
+                    <entry><ulink url="http://dds.gsi.de/doc/0.4/index.html">HTML</ulink>,
+                           <ulink url="http://dds.gsi.de/doc/0.4/dds.pdf">PDF</ulink>
+					</entry>
+                    <entry>User's manual of the stable DDS v0.4</entry>
+                </row>
 
                </tbody>
         </tgroup>
