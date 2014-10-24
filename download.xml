@@ -28,7 +28,7 @@ PUBLIC "-//Norman Walsh//DTD Website Full V2.6.0//EN"
                 <tbody>
 
                     <row>
-                        <entry><ulink url="http://dds.gsi.de/releases/dds/nightly/DDS-0.4-Source.tar.gz">Source tarball (170K)</ulink></entry>
+                        <entry><ulink url="http://dds.gsi.de/releases/dds/0.4/DDS-0.4-Source.tar.gz">Source tarball (170K)</ulink></entry>
                         <entry>0.4</entry>
                         <entry>2014-10-24</entry>
                         <entry><ulink url="http://dds.gsi.de/doc/0.4/requirements.html">requirements</ulink></entry>
