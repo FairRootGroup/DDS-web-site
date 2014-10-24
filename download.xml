@@ -64,8 +64,6 @@ PUBLIC "-//Norman Walsh//DTD Website Full V2.6.0//EN"
                         <entry><ulink url="https://github.com/FairRootGroup/DDS/blob/9c7dd3411f0767fbcbda545a9619bc32ddf66622/ReleaseNotes.md">ReleaseNotes</ulink></entry>
                         <entry><ulink url="https://github.com/FairRootGroup/DDS/blob/9c7dd3411f0767fbcbda545a9619bc32ddf66622/LICENSE">GNU GPL v3</ulink></entry>
                     </row>
-                </tbody>
-                <tbody>
                     <row>
                         <entry><ulink url="http://dds.gsi.de/releases/dds/nightly/DDS-0.5-Source.tar.gz">Source tarball (170K)</ulink></entry>
                         <entry>0.5</entry>
