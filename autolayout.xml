@@ -1,6 +1,8 @@
 <?xml version="1.0"?>
 <!DOCTYPE autolayout PUBLIC "-//Norman Walsh//DTD Website Autolayout V2.5.0//EN" "http://docbook.sourceforge.net/release/website/2.5.0/schema/dtd/autolayout.dtd"><autolayout>
-<config param="title" value="DDS"/><config param="text-prefix" value="n-"/><config param="homebanner-tabular" value="graphics/DDS_logo.png" altval="Home Banner"/><config param="banner-tabular" value="graphics/DDS_logo.png" altval="Banner"/><config param="navbgcolor" value="#FFFFFF"/><copyright><year>2014</year><holder role="http://www.gsi.de">GSI Helmholtzzentrum für Schwerionenforschung GmbH</holder></copyright><style src="docbook-website.css" type="text/css"/><toc page="website.xml" id="Home" filename="index.html">
+<config param="title" value="DDS"/><config param="text-prefix" value="n-"/><config param="homebanner-tabular" value="graphics/DDS_logo.png" altval="Home Banner"/>
+<config param="banner-tabular" value="graphics/DDS_logo.png" altval="Banner"/>
+<config param="navbgcolor" value="#FFFFFF"/><copyright><year>2014-2015</year><holder role="http://www.gsi.de">GSI Helmholtzzentrum für Schwerionenforschung GmbH</holder></copyright><style src="docbook-website.css" type="text/css"/><toc page="website.xml" id="Home" filename="index.html">
 <title>DDS</title>
 <summary>Home</summary>
 <tocentry page="download.xml" id="Download" filename="download.html">
