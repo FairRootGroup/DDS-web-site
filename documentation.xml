@@ -32,9 +32,9 @@ PUBLIC "-//Norman Walsh//DTD Website Full V2.6.0//EN"
                 </row>
       	        <row>
                     <entry>API docs (Nightly build)</entry>
-                    <entry><ulink url="http://dds.gsi.de/doc/api-docs/index.html">HTML</ulink>
+                    <entry><ulink url="http://dds.gsi.de/doc/api-docs/DDS/html/index.html">HTML</ulink>
 					</entry>
-                    <entry>User's manual of the latest development DDS version, which is build nightly.</entry>
+                    <entry>API Documention, which is build nightly.</entry>
                 </row>
       	        <row>
                     <entry>User's Manual (v0.8)</entry>
