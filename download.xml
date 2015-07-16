@@ -29,7 +29,7 @@ PUBLIC "-//Norman Walsh//DTD Website Full V2.6.0//EN"
 
                     <row>
                         <entry><ulink url="http://dds.gsi.de/releases/dds/0.10/DDS-0.10-Source.tar.gz">Source tarball (201K)</ulink></entry>
-                        <entry>0.8</entry>
+                        <entry>0.10</entry>
                         <entry>2015-07-16</entry>
                         <entry><ulink url="http://dds.gsi.de/doc/0.10/requirements.html">requirements</ulink></entry>
                         <entry><ulink url="https://github.com/FairRootGroup/DDS/blob/0.10/ReleaseNotes.md">ReleaseNotes</ulink></entry>
