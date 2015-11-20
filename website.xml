@@ -20,12 +20,43 @@ PUBLIC "-//Norman Walsh//DTD Website V2.6.0//EN"
     
     <section><title>What is a DDS?</title>
         <para>
-                 </para>
+			The Dynamic Deployment System (DDS) - is a tool-set that automates and significantly simplifies a deployment of user defined processes and their dependencies on any resource management system using a given topology.
+        </para>
     </section>
+	
+	<section><title>Basic concepts</title>
+			<itemizedlist>
+				<title>DDS:</title>
+				<listitem>
+					<para>implements a single-responsibility-principle command line tool-set and APIs,</para>
+				</listitem>
+				<listitem>
+					<para>treats users’ tasks as black boxes</para>
+				</listitem>
+				<listitem>
+					<para>doesn’t depend on RMS (provides deployment via SSH, when no RMS is present),</para>
+				</listitem>
+				<listitem>
+					<para>supports workers behind FireWalls (outgoing connection from WNs required),</para>
+				</listitem>
+				<listitem>
+					<para>doesn’t require pre-installation on WNs,</para>
+				</listitem>
+				<listitem>
+					<para>deploys private facilities on demand with isolated sandboxes,</para>
+				</listitem>
+				<listitem>
+					<para>provides a key-value properties propagation service for tasks,</para>
+				</listitem>
+				<listitem>
+					<para>provides a rules based execution of tasks.</para>
+				</listitem>
+			</itemizedlist>
+	</section>
     
     <section><title>Features</title>
        <para>
-                 </para>
+       </para>
     </section>
     
     <section id="whatsnew">
