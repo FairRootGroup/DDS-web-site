@@ -57,9 +57,9 @@ PUBLIC "-//Norman Walsh//DTD Website Full V2.6.0//EN"
                 </thead>
                 <tbody>
                     <row>
-                        <entry><ulink url="http://dds.gsi.de/releases/dds/nightly/DDS-1.1-Source.tar.gz">Source tarball (221K)</ulink></entry>
-                        <entry>1.1</entry>
-                        <entry>2015-11-20</entry>
+                        <entry><ulink url="http://dds.gsi.de/releases/dds/nightly/DDS-1.1.33.ga32434b-Source.tar.gz">Source tarball (234K)</ulink></entry>
+                        <entry>1.1.33.ga32434b</entry>
+                        <entry>2016-03-10</entry>
                         <entry><ulink url="http://dds.gsi.de/doc/nightly/requirements.html">requirements</ulink></entry>
                         <entry><ulink url="https://github.com/FairRootGroup/DDS/blob/master/ReleaseNotes.md">ReleaseNotes</ulink></entry>
                         <entry><ulink url="https://github.com/FairRootGroup/DDS/blob/master/LICENSE">GNU GPL v3</ulink></entry>
