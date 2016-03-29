@@ -18,7 +18,7 @@ PUBLIC "-//Norman Walsh//DTD Website V2.6.0//EN"
     <webtoc/>
     
     
-    <section><title>What is a DDS?</title>
+    <section><title>What is DDS?</title>
         <para>
 			The Dynamic Deployment System (DDS) - is a tool-set that automates and significantly simplifies a deployment of user defined processes and their dependencies on any resource management system using a given topology.
         </para>
