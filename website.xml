@@ -62,16 +62,16 @@ PUBLIC "-//Norman Walsh//DTD Website V2.6.0//EN"
     <section id="whatsnew">
         <title>What's New</title>
         <variablelist>
+
+            <varlistentry><term>2017-03-26</term>
+                <listitem>
+                    <para> DDS v1.6 was <olink targetdocent="download.xml">released</olink>.</para>
+                </listitem>
+            </varlistentry>
 			
             <varlistentry><term>2016-10-31</term>
                 <listitem>
                     <para> DDS v1.4 was <olink targetdocent="download.xml">released</olink>.</para>
-                </listitem>
-            </varlistentry>
-			
-            <varlistentry><term>2016-06-07</term>
-                <listitem>
-                    <para> DDS v1.2 was <olink targetdocent="download.xml">released</olink>.</para>
                 </listitem>
             </varlistentry>
 			
