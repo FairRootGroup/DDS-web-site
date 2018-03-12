@@ -28,12 +28,12 @@ PUBLIC "-//Norman Walsh//DTD Website Full V2.6.0//EN"
                 <tbody>
 
                     <row>
-                        <entry><ulink url="http://dds.gsi.de/releases/dds/1.6/DDS-1.6-Source.tar.gz">Source tarball (256K)</ulink></entry>
-                        <entry>1.6</entry>
-                        <entry>2017-03-26</entry>
-                        <entry><ulink url="http://dds.gsi.de/doc/1.6/requirements.html">requirements</ulink></entry>
-                        <entry><ulink url="https://github.com/FairRootGroup/DDS/blob/1.6/ReleaseNotes.md">ReleaseNotes</ulink></entry>
-                        <entry><ulink url="https://github.com/FairRootGroup/DDS/blob/1.6/LICENSE">GNU GPL v3</ulink></entry>
+                        <entry><ulink url="http://dds.gsi.de/releases/dds/2.0/DDS-2.0-Source.tar.gz">Source tarball (292K)</ulink></entry>
+                        <entry>2.0</entry>
+                        <entry>2018-03-12</entry>
+                        <entry><ulink url="http://dds.gsi.de/doc/2.0/requirements.html">requirements</ulink></entry>
+                        <entry><ulink url="https://github.com/FairRootGroup/DDS/blob/2.0/ReleaseNotes.md">ReleaseNotes</ulink></entry>
+                        <entry><ulink url="https://github.com/FairRootGroup/DDS/blob/2.0/LICENSE">GNU GPL v3</ulink></entry>
                     </row>
                                         
                 </tbody>
@@ -57,9 +57,9 @@ PUBLIC "-//Norman Walsh//DTD Website Full V2.6.0//EN"
                 </thead>
                 <tbody>
                     <row>
-                        <entry><ulink url="http://dds.gsi.de/releases/dds/nightly/DDS-1.7-Source.tar.gz">Source tarball (256K)</ulink></entry>
-                        <entry>1.7</entry>
-                        <entry>2016-03-26</entry>
+                        <entry><ulink url="http://dds.gsi.de/releases/dds/nightly/DDS-2.1-Source.tar.gz">Source tarball (256K)</ulink></entry>
+                        <entry>2.1</entry>
+                        <entry>2018-03-12</entry>
                         <entry><ulink url="http://dds.gsi.de/doc/nightly/requirements.html">requirements</ulink></entry>
                         <entry><ulink url="https://github.com/FairRootGroup/DDS/blob/master/ReleaseNotes.md">ReleaseNotes</ulink></entry>
                         <entry><ulink url="https://github.com/FairRootGroup/DDS/blob/master/LICENSE">GNU GPL v3</ulink></entry>
