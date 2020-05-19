@@ -37,17 +37,17 @@ PUBLIC "-//Norman Walsh//DTD Website Full V2.6.0//EN"
                     <entry>API Documentation, which is build nightly.</entry>
                 </row>
       	        <row>
-                    <entry>API docs (v3.0)</entry>
-                    <entry><ulink url="http://dds.gsi.de/doc/3.0/api-docs/DDS/html/index.html">HTML</ulink>
+                    <entry>API docs (v3.2)</entry>
+                    <entry><ulink url="http://dds.gsi.de/doc/3.2/api-docs/DDS/html/index.html">HTML</ulink>
 					</entry>
-                    <entry>API Documentation v3.0</entry>
+                    <entry>API Documentation v3.2</entry>
                 </row>
       	        <row>
-                    <entry>User's Manual (v3.0)</entry>
-                    <entry><ulink url="http://dds.gsi.de/doc/3.0/index.html">HTML</ulink>,
-                           <ulink url="http://dds.gsi.de/doc/3.0/dds.pdf">PDF</ulink>
+                    <entry>User's Manual (v3.2)</entry>
+                    <entry><ulink url="http://dds.gsi.de/doc/3.2/index.html">HTML</ulink>,
+                           <ulink url="http://dds.gsi.de/doc/3.2/dds.pdf">PDF</ulink>
 					</entry>
-                    <entry>User's manual of the stable DDS v3.0</entry>
+                    <entry>User's manual of the stable DDS v3.2</entry>
                 </row>
                </tbody>
         </tgroup>
